@@ -1,83 +1,67 @@
- <div align="center">
+# Hi, I'm Muhammad Zohair 👋
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8C969B,100:626D73&height=12&section=header" width="100%" />
+I'm a developer from Pakistan who enjoys building websites, exploring new technologies, and turning ideas into working projects.
 
-<table width="100%">
-<tr>
-<td>
+I mainly work with **JavaScript, React, and the MERN stack**, while also exploring **Python and Machine Learning**.
 
-**● ZOHAIR_OS — PROFILE.EXE**
+### A little about me
 
-</td>
-<td align="right">
+- 🔭 Currently working on [Parents of Khan](https://parentofkhan.netlify.app/)
+- 🌱 Learning more about AI and Machine Learning
+- 💻 Interested in full-stack development and practical software projects
+- 🛠️ I enjoy experimenting with new tools and improving my development workflow
+- 📫 Reach me at **muhammadzohair86@gmail.com**
 
-`_` `□` `×`
+### What I work with
 
-</td>
-</tr>
-</table>
+**Frontend**
 
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma" />
+</p>
 
-<div align="center">
+**Backend & Databases**
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=20&duration=3500&pause=1000&color=8C969B&center=true&vCenter=true&width=500&lines=Muhammad+Zohair;Web+Developer;Always+building+something." alt="Profile intro" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" />
+</p>
 
-`USER: MUHAMMAD ZOHAIR` &nbsp; | &nbsp; `LOCATION: PAKISTAN`
+**Programming & Tools**
 
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,postman,vscode" />
+</p>
 
----
+**Exploring AI / Machine Learning**
 
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
 
-[ ` HOME ` ](https://github.com/muhammadzohair86) &nbsp; [ ` PROJECTS ` ](https://github.com/muhammadzohair86?tab=repositories) &nbsp; [ ` LINKEDIN ` ](https://linkedin.com/in/muhammadzohair) &nbsp; [ ` CONTACT ` ](mailto:muhammadzohair86@gmail.com)
+### Projects
 
-</div>
+A few projects I've been working on:
 
----
+- **[Parents of Khan](https://parentofkhan.netlify.app/)** — A full-stack e-commerce project.
+- **[GitHub Repositories](https://github.com/muhammadzohair86?tab=repositories)** — Explore my other projects and experiments.
 
-**C:\PROFILE\ABOUT.TXT**
+### Connect with me
 
-```text
-Hello, I'm Muhammad Zohair.
-
-A developer interested in building useful web
-applications and exploring new technologies.
-
-Currently focused on JavaScript and MERN stack,
-while learning Python and Machine Learning.
-
-> Current project: Parents of Khan
-> Status: Learning, building and improving.
-```
-
-**C:\SYSTEM\INSTALLED_TOOLS**
-
-| FRONTEND | BACKEND | OTHER |
-|:---:|:---:|:---:|
-| HTML · CSS | Node.js | Python |
-| JavaScript | Express | Git |
-| React | MongoDB | Postman |
-| Tailwind | MySQL | Figma |
-| Bootstrap | Firebase | VS Code |
-
-**C:\PROJECTS\**
-
-[ ` OPEN PARENTS OF KHAN ` ](https://parentofkhan.netlify.app/)
-
-[ ` BROWSE ALL PROJECTS ` ](https://github.com/muhammadzohair86?tab=repositories)
+<p align="left">
+  <a href="https://linkedin.com/in/muhammadzohair" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn" />
+  </a>
+  <a href="https://kaggle.com/muhammadzohairr" target="_blank">
+    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="32" alt="Kaggle" />
+  </a>
+  <a href="https://instagram.com/muhammadzohair86" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="32" alt="Instagram" />
+  </a>
+  <a href="mailto:muhammadzohair86@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="32" alt="Email" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
-
-`LINK STATUS: CONNECTED`
-
-[ GitHub ](https://github.com/muhammadzohair86) &nbsp; • &nbsp; [ LinkedIn ](https://linkedin.com/in/muhammadzohair) &nbsp; • &nbsp; [ Kaggle ](https://kaggle.com/muhammadzohairr) &nbsp; • &nbsp; [ Instagram ](https://instagram.com/muhammadzohair86)
-
-<a href="mailto:muhammadzohair86@gmail.com">muhammadzohair86@gmail.com</a>
-
-`© 2026 ZOHAIR — SYSTEM READY`
-
-</div>
+*Thanks for stopping by. Feel free to explore my repositories!*
