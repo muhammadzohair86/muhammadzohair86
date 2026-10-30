@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Zohair 👋
+# Hi, I'm Muhammad Zohair
 
 I'm a developer from Pakistan who enjoys building websites, exploring new technologies, and turning ideas into working projects.
 
