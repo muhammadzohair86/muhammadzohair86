@@ -1,18 +1,36 @@
-# Hi, I'm Muhammad Zohair
+<!-- Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1e3a5f&height=170&section=header&text=Muhammad%20Zohair&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descSize=14&descAlignY=68&animation=fadeIn" width="100%" />
+</div>
 
-I'm a developer from Pakistan who enjoys building websites, exploring new technologies, and turning ideas into working projects.
+<h3 align="center">Building things for the web, learning something new every day.</h3>
 
-I mainly work with **JavaScript, React, and the MERN stack**, while also exploring **Python and Machine Learning**.
+<p align="center">
+  <a href="https://github.com/muhammadzohair86">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:muhammadzohair86@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/muhammadzohair">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-### A little about me
+---
+
+## About
+
+I'm a developer from Pakistan interested in building useful web applications and exploring how technology can solve real-world problems.
+
+My main focus is JavaScript and the MERN stack. I'm also learning Python and Machine Learning, and enjoy working on projects that help me improve my skills.
 
 - 🔭 Currently working on [Parents of Khan](https://parentofkhan.netlify.app/)
-- 🌱 Learning more about AI and Machine Learning
-- 💻 Interested in full-stack development and practical software projects
-- 🛠️ I enjoy experimenting with new tools and improving my development workflow
-- 📫 Reach me at **muhammadzohair86@gmail.com**
+- 🌱 Currently learning AI and Machine Learning
+- 💻 Interested in frontend and full-stack development
+- 📫 **muhammadzohair86@gmail.com**
 
-### What I work with
+## Tech Stack
 
 **Frontend**
 
@@ -20,7 +38,7 @@ I mainly work with **JavaScript, React, and the MERN stack**, while also explori
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma" />
 </p>
 
-**Backend & Databases**
+**Backend & Database**
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" />
@@ -29,39 +47,46 @@ I mainly work with **JavaScript, React, and the MERN stack**, while also explori
 **Programming & Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,postman,vscode" />
 </p>
 
-**Exploring AI / Machine Learning**
+**Currently Exploring**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 </p>
 
-### Projects
+## Featured Project
 
-A few projects I've been working on:
+<a href="https://parentofkhan.netlify.app/">
+  <img src="https://img.shields.io/badge/Parents%20of%20Khan-Live%20Project-1e3a5f?style=for-the-badge" />
+</a>
 
-- **[Parents of Khan](https://parentofkhan.netlify.app/)** — A full-stack e-commerce project.
-- **[GitHub Repositories](https://github.com/muhammadzohair86?tab=repositories)** — Explore my other projects and experiments.
+A full-stack e-commerce project I'm currently working on.
 
-### Connect with me
+[Explore my other repositories →](https://github.com/muhammadzohair86?tab=repositories)
 
-<p align="left">
-  <a href="https://linkedin.com/in/muhammadzohair" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn" />
+## Connect
+
+<p>
+  <a href="https://linkedin.com/in/muhammadzohair">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="34" />
   </a>
-  <a href="https://kaggle.com/muhammadzohairr" target="_blank">
-    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="32" alt="Kaggle" />
+  &nbsp;
+  <a href="https://kaggle.com/muhammadzohairr">
+    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="34" />
   </a>
-  <a href="https://instagram.com/muhammadzohair86" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="32" alt="Instagram" />
+  &nbsp;
+  <a href="https://instagram.com/muhammadzohair86">
+    <img src="https://skillicons.dev/icons?i=instagram" width="34" />
   </a>
+  &nbsp;
   <a href="mailto:muhammadzohair86@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="32" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="34" />
   </a>
 </p>
 
----
-
-*Thanks for stopping by. Feel free to explore my repositories!*
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a5f,100:111827&height=65&section=footer" width="100%" />
+  <sub>Thanks for visiting my profile.</sub>
+</div>
