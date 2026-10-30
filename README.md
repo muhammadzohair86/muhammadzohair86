@@ -1,98 +1,83 @@
-<!-- RETRO / NEO-BRUTALIST HEADER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F4D35E,100:F08A5D&height=165&section=header&text=Muhammad%20Zohair&fontSize=42&fontColor=171717&fontAlignY=43&desc=DEVELOPER%20%7C%20PROBLEM%20SOLVER%20%7C%20TECH%20ENTHUSIAST&descSize=12&descAlignY=68" width="100%" />
+ <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8C969B,100:626D73&height=12&section=header" width="100%" />
+
+<table width="100%">
+<tr>
+<td>
+
+**● ZOHAIR_OS — PROFILE.EXE**
+
+</td>
+<td align="right">
+
+`_` `□` `×`
+
+</td>
+</tr>
+</table>
+
 </div>
 
-<h3 align="center">✳ Building things for the web, learning something new every day.</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/muhammadzohair86">
-    <img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=F4D35E" />
-  </a>
-  <a href="mailto:muhammadzohair86@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-F08A5D?style=for-the-badge&logo=gmail&logoColor=171717" />
-  </a>
-  <a href="https://linkedin.com/in/muhammadzohair">
-    <img src="https://img.shields.io/badge/LINKEDIN-A8DADC?style=for-the-badge&logo=linkedin&logoColor=171717" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=20&duration=3500&pause=1000&color=8C969B&center=true&vCenter=true&width=500&lines=Muhammad+Zohair;Web+Developer;Always+building+something." alt="Profile intro" />
+
+`USER: MUHAMMAD ZOHAIR` &nbsp; | &nbsp; `LOCATION: PAKISTAN`
+
+</div>
 
 ---
-
-## 🟨 ABOUT ME
-
-I'm a developer from Pakistan interested in building useful web applications and exploring how technology can solve real-world problems.
-
-My main focus is JavaScript and the MERN stack. I'm also learning Python and Machine Learning, and enjoy working on projects that help me improve my skills.
-
-- 🔭 Currently working on [Parents of Khan](https://parentofkhan.netlify.app/)
-- 🌱 Currently learning **AI and Machine Learning**
-- 💻 Interested in **Frontend and Full-Stack Development**
-- 📫 [**muhammadzohair86@gmail.com**](mailto:muhammadzohair86@gmail.com)
-
----
-
-## 🟧 TECH STACK
-
-**01 / Frontend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma" />
-</p>
-
-**02 / Backend & Database**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" />
-</p>
-
-**03 / Programming & Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,postman,vscode" />
-</p>
-
-**04 / Currently Exploring**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-</p>
-
----
-
-## 🟩 FEATURED PROJECT
-
-<a href="https://parentofkhan.netlify.app/">
-  <img src="https://img.shields.io/badge/PARENTS%20OF%20KHAN-LIVE%20PROJECT-CCFF66?style=for-the-badge&labelColor=171717" />
-</a>
-
-A full-stack e-commerce project I'm currently working on.
-
-[↗ Explore my other repositories](https://github.com/muhammadzohair86?tab=repositories)
-
----
-
-## 🟦 CONNECT
-
-<p>
-  <a href="https://linkedin.com/in/muhammadzohair">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="34" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://kaggle.com/muhammadzohairr">
-    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="34" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/muhammadzohair86">
-    <img src="https://skillicons.dev/icons?i=instagram" width="34" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:muhammadzohair86@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="34" />
-  </a>
-</p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F08A5D,100:F4D35E&height=55&section=footer" width="100%" />
-  <sub>✳ THANKS FOR STOPPING BY — KEEP BUILDING.</sub>
+
+[ ` HOME ` ](https://github.com/muhammadzohair86) &nbsp; [ ` PROJECTS ` ](https://github.com/muhammadzohair86?tab=repositories) &nbsp; [ ` LINKEDIN ` ](https://linkedin.com/in/muhammadzohair) &nbsp; [ ` CONTACT ` ](mailto:muhammadzohair86@gmail.com)
+
+</div>
+
+---
+
+**C:\PROFILE\ABOUT.TXT**
+
+```text
+Hello, I'm Muhammad Zohair.
+
+A developer interested in building useful web
+applications and exploring new technologies.
+
+Currently focused on JavaScript and MERN stack,
+while learning Python and Machine Learning.
+
+> Current project: Parents of Khan
+> Status: Learning, building and improving.
+```
+
+**C:\SYSTEM\INSTALLED_TOOLS**
+
+| FRONTEND | BACKEND | OTHER |
+|:---:|:---:|:---:|
+| HTML · CSS | Node.js | Python |
+| JavaScript | Express | Git |
+| React | MongoDB | Postman |
+| Tailwind | MySQL | Figma |
+| Bootstrap | Firebase | VS Code |
+
+**C:\PROJECTS\**
+
+[ ` OPEN PARENTS OF KHAN ` ](https://parentofkhan.netlify.app/)
+
+[ ` BROWSE ALL PROJECTS ` ](https://github.com/muhammadzohair86?tab=repositories)
+
+---
+
+<div align="center">
+
+`LINK STATUS: CONNECTED`
+
+[ GitHub ](https://github.com/muhammadzohair86) &nbsp; • &nbsp; [ LinkedIn ](https://linkedin.com/in/muhammadzohair) &nbsp; • &nbsp; [ Kaggle ](https://kaggle.com/muhammadzohairr) &nbsp; • &nbsp; [ Instagram ](https://instagram.com/muhammadzohair86)
+
+<a href="mailto:muhammadzohair86@gmail.com">muhammadzohair86@gmail.com</a>
+
+`© 2026 ZOHAIR — SYSTEM READY`
+
 </div>
